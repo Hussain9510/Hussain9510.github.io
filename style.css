@@ -1,0 +1,257 @@
+body
+{
+
+ /* background-color:  #e84545; */
+
+}
+h1
+{
+  font-family:'Montaga', serif;
+  font-size: 3rem;
+  line-height: rem;
+  color: #fff;
+  font-weight: bold;
+}
+
+h2
+{
+  font-family:'Montaga', serif;
+  font-size: 2.5rem;
+  line-height: rem;
+  color: #fff;
+  font-weight: bold;
+}
+h3
+{
+  font-family:'Montaga', serif;
+  font-size: 2rem;
+  line-height: rem;
+  color: #fff;
+  font-weight: bold;
+
+}
+
+p
+{
+  font-weight: bold;
+  font-family: 'Montaga', serif;
+  color: #000;
+}
+
+#title
+{
+background-color: #30475e;
+
+}
+
+
+.container-fluid
+{
+padding: 5% 15%;
+}
+
+.navbar
+{
+ padding: 0 0 4.5rem;
+}
+
+.navbar-brand
+{
+  font-family: 'Montaga', serif;
+  font-size:3rem;
+  font-weight: bold;
+  padding-bottom: 0px;
+
+
+
+}
+.nav-item
+{
+padding: 0 24px;
+}
+
+.nav-link
+{
+  font-size: 1.5rem;
+  font-weight: 400;
+  font-family: 'Montaga', serif;
+
+}
+
+.btn
+{
+  font-family: 'Montaga', serif;
+  font-size: 1.5rem;
+}
+
+.anc
+{
+  color: #fff;
+  text-decoration: none;
+
+
+
+}
+#features
+{
+ background-color: #222831;
+ text-align: center;
+}
+
+.fas
+{
+  font-size: 6rem;
+  color: #30475e;
+}
+.fas:hover
+{
+  color: #fff;
+}
+#testimonial
+{
+  background-color:  #30475e;
+  padding-top: 30px;
+}
+
+.card-body
+{
+  background-color: #222831;
+}
+
+.card-title
+{
+  color: #fff;
+  font-weight: bold;
+  font-family: 'Montaga', serif;
+
+}
+.card-text
+{
+  color: #fff;
+  font-weight: bold;
+  font-family: 'Montaga', serif;
+}
+.testcard
+{
+  text-align: center;
+}
+
+#explore
+{
+  background-color: #222831;
+}
+
+.fit
+{
+  width: 300px;
+  height: 250px;
+  border-radius: 200%;
+  float: left;
+  padding: 26px;
+
+}
+
+.h2e
+{
+  padding-top: 90px;
+}
+
+.pe
+{
+
+  margin-top: 50px;
+  color: #fff;
+  text-align: center;
+
+}
+
+#slides
+{
+  background-color: #30475e;
+
+}
+
+.slider
+{
+text-align: left;
+
+
+}
+
+#cta{
+  background-color: #222831;
+
+}
+
+.end
+{
+  text-align: center;
+  padding-top: 100px;
+}
+
+.but
+{
+   margin: 1% 3% 3% 0;
+}
+
+#footer
+{
+  background-color: #30475e;
+  height: 170px;
+  text-align: center;
+  padding-top: 55px;
+}
+
+.pf
+{
+  color: #fff;
+}
+.fab
+{
+  color: #fff;
+}
+
+
+@media (max-width:1024px)
+{
+  h1
+  {
+
+    font-size: 2.5rem;
+    padding-top: 30px;
+  }
+  #features
+  {
+    text-align: center;
+    padding-right: 50px;
+    padding-top: 30px;
+  }
+  .fea
+  {
+  padding-bottom: 40px;
+  }
+
+
+  .testcard1
+  {
+    padding-left: 180px;
+  }
+  .testcard2
+  {
+    padding-bottom: 80px;
+    padding-top: 40px;
+  }
+  .testcard
+  {
+    text-align: center;
+  }
+
+  .fit
+  {
+    border-radius: 50px;
+  }
+  .pe
+  {
+    font-size: 0.7rem;
+  }
+}
